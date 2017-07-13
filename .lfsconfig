@@ -1,2 +1,2 @@
 [lfs]
-url = "https://artifactory-qa.in.here.com/artifactory/api/lfs/lfs-test"
+url = "ssh://artifactory-qa.in.here.com/artifactory/lfs-test"
